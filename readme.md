@@ -12,10 +12,10 @@ Generate the QR Code(Quick Response Code) for any link or text.
 
 ### Example outputs -
 1) https://github.com/SarthakKeshari/QR-Code-Generator
-<img width="200" src="https://github.com/SarthakKeshari/QR-Code-Generator/blob/main/Github.PNG">
+<img width="250" src="https://github.com/SarthakKeshari/QR-Code-Generator/blob/main/Github.PNG">
 
 2) https://www.linkedin.com/in/sarthak-keshari-89664b193
-<img width="200" src="https://github.com/SarthakKeshari/QR-Code-Generator/blob/main/Linkedin.PNG">
+<img width="250" src="https://github.com/SarthakKeshari/QR-Code-Generator/blob/main/Linkedin.PNG">
 
 
 #### I will soon add a repository for QR Code and Bar Code reader
